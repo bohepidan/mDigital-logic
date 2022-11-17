@@ -9,7 +9,7 @@ z2
 cModel Technology
 dD:/Modelsim/shared
 vcoder8to3
-Z0 !s110 1668161273
+Z0 !s110 1668683415
 !i10b 1
 !s100 fiAo0==:SPCGB8a?A23Xn0
 I7_8H@YgX94LTA?dGzQ;L`3
@@ -23,13 +23,13 @@ Z3 OV;L;10.3d;59
 r1
 !s85 0
 31
-!s108 1668161273.023000
+!s108 1668683415.802000
 !s107 D:/Modelsim/ps2/coder8to3.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/coder8to3.v|
 !i113 1
 Z4 o-work work
 vdecoder2to4
-Z5 !s110 1668161272
+R0
 !i10b 1
 !s100 Z9SOTN:OLBz5C8^j8QjeN1
 IDRJ@1ka>Z_<S?Hkm<UZLz0
@@ -43,33 +43,53 @@ R3
 r1
 !s85 0
 31
-!s108 1668161272.717000
+!s108 1668683415.642000
 !s107 D:/Modelsim/ps2/decoder2to4.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/decoder2to4.v|
 !i113 1
 R4
-vfulladder2p2
-R0
+vfulladder
+Z5 !s110 1668683416
 !i10b 1
-!s100 82YUNhn;h>I`?J@>9zkP]0
-ISkcMebC@A?RbUoZzO]1g[2
+!s100 fR8Ki>0K`oMld55mk=0Z=3
+IIKb?zlRGN>EnK60f_[b=B2
 R1
 R2
-w1668160756
-8D:/Modelsim/ps2/fulladder2p2.v
-FD:/Modelsim/ps2/fulladder2p2.v
+Z6 w1668683406
+Z7 8D:/Modelsim/ps2/fulladder2p2.v
+Z8 FD:/Modelsim/ps2/fulladder2p2.v
+L0 10
+R3
+r1
+!s85 0
+31
+Z9 !s108 1668683416.054000
+Z10 !s107 D:/Modelsim/ps2/fulladder2p2.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/fulladder2p2.v|
+!i113 1
+R4
+vfulladder2p2
+R5
+!i10b 1
+!s100 8X8Mi3SU7AQcziKa_NE^93
+IG2^8Jm6>EhS>ZbVhB6=Xl3
+R1
+R2
+R6
+R7
+R8
 L0 1
 R3
 r1
 !s85 0
 31
-!s108 1668161273.328000
-!s107 D:/Modelsim/ps2/fulladder2p2.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/fulladder2p2.v|
+R9
+R10
+R11
 !i113 1
 R4
 vMUX2to1
-R5
+R0
 !i10b 1
 !s100 hO_L0H>eZK1V3JDmD7Bje1
 IN?gf;3HRmg[Yez;d1cdFP3
@@ -83,7 +103,7 @@ R3
 r1
 !s85 0
 31
-!s108 1668161272.594000
+!s108 1668683415.547000
 !s107 D:/Modelsim/ps2/MUX2to1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/MUX2to1.v|
 !i113 1
@@ -104,14 +124,14 @@ R3
 r1
 !s85 0
 31
-!s108 1668161273.225000
+!s108 1668683415.970000
 !s107 D:/Modelsim/ps2/oneBitComparator.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/oneBitComparator.v|
 !i113 1
 R4
 none@bit@comparator
 vtb_coder8to3
-R5
+R0
 !i10b 1
 !s100 <b=fDGZ3IDIB@G1`cz^jf3
 IM<hG3Hdk=JJ4?lkolQojU3
@@ -125,13 +145,13 @@ R3
 r1
 !s85 0
 31
-!s108 1668161272.922000
+!s108 1668683415.754000
 !s107 D:/Modelsim/ps2/tb_coder8to3.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/tb_coder8to3.v|
 !i113 1
 R4
 vtb_fulladder2p2
-R0
+R5
 !i10b 1
 !s100 i62>@b=aKEO@lDzE7G7Sn3
 Iz@^T]1Af7;WGQbFB4aGaN1
@@ -145,13 +165,13 @@ R3
 r1
 !s85 0
 31
-!s108 1668161273.426000
+!s108 1668683416.118000
 !s107 D:/Modelsim/ps2/tb_fulladder2p2.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/tb_fulladder2p2.v|
 !i113 1
 R4
 vtb_MUX2to1
-R5
+R0
 !i10b 1
 !s100 4RalGC>Qc3e4GVF>k7QF93
 Ii:6@:b>`4RP7_<Zif?;5k1
@@ -165,7 +185,7 @@ R3
 r1
 !s85 0
 31
-!s108 1668161272.545000
+!s108 1668683415.501000
 !s107 D:/Modelsim/ps2/tb_MUX2to1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/tb_MUX2to1.v|
 !i113 1
@@ -186,14 +206,14 @@ R3
 r1
 !s85 0
 31
-!s108 1668161273.122000
+!s108 1668683415.856000
 !s107 D:/Modelsim/ps2/tb_oneBitComparator.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/tb_oneBitComparator.v|
 !i113 1
 R4
 ntb_one@bit@comparator
 vtm_decoder2to4
-R5
+R0
 !i10b 1
 !s100 NSJ1<@1X01:[TT4=b]bHR3
 Ijnf]BZOH<@hS6nDbo0V^A0
@@ -207,7 +227,7 @@ R3
 r1
 !s85 0
 31
-!s108 1668161272.819000
+!s108 1668683415.692000
 !s107 D:/Modelsim/ps2/tb_decoder2to4.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps2/tb_decoder2to4.v|
 !i113 1

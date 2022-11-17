@@ -5,12 +5,12 @@ Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
 Top level modules:
 	tb_oneBitComparator
 
-} {} {}} D:/Modelsim/ps2/fulladder2p2.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/fulladder2p2.v
+} {} {}} D:/Modelsim/ps2/coder8to3.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/coder8to3.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
--- Compiling module fulladder2p2
+-- Compiling module coder8to3
 
 Top level modules:
-	fulladder2p2
+	coder8to3
 
 } {} {}} D:/Modelsim/ps2/decoder2to4.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/decoder2to4.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
@@ -19,26 +19,12 @@ Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
 Top level modules:
 	decoder2to4
 
-} {} {}} D:/Modelsim/ps2/coder8to3.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/coder8to3.v
+} {} {}} D:/Modelsim/ps2/tb_coder8to3.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_coder8to3.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
--- Compiling module coder8to3
+-- Compiling module tb_coder8to3
 
 Top level modules:
-	coder8to3
-
-} {} {}} D:/Modelsim/ps2/tb_fulladder2p2.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_fulladder2p2.v
-Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
--- Compiling module tb_fulladder2p2
-
-Top level modules:
-	tb_fulladder2p2
-
-} {} {}} D:/Modelsim/ps2/tb_decoder2to4.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_decoder2to4.v
-Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
--- Compiling module tm_decoder2to4
-
-Top level modules:
-	tm_decoder2to4
+	tb_coder8to3
 
 } {} {}} D:/Modelsim/ps2/MUX2to1.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/MUX2to1.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
@@ -47,19 +33,19 @@ Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
 Top level modules:
 	MUX2to1
 
-} {} {}} D:/Modelsim/ps2/tb_coder8to3.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_coder8to3.v
+} {} {}} D:/Modelsim/ps2/tb_decoder2to4.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_decoder2to4.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
--- Compiling module tb_coder8to3
+-- Compiling module tm_decoder2to4
 
 Top level modules:
-	tb_coder8to3
+	tm_decoder2to4
 
-} {} {}} D:/Modelsim/ps2/tb_MUX2to1.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_MUX2to1.v
+} {} {}} D:/Modelsim/ps2/tb_fulladder2p2.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_fulladder2p2.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
--- Compiling module tb_MUX2to1
+-- Compiling module tb_fulladder2p2
 
 Top level modules:
-	tb_MUX2to1
+	tb_fulladder2p2
 
 } {} {}} D:/Modelsim/ps2/oneBitComparator.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/oneBitComparator.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
@@ -67,5 +53,12 @@ Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
 
 Top level modules:
 	oneBitComparator
+
+} {} {}} D:/Modelsim/ps2/tb_MUX2to1.v {1 {vlog -work work -stats=none D:/Modelsim/ps2/tb_MUX2to1.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module tb_MUX2to1
+
+Top level modules:
+	tb_MUX2to1
 
 } {} {}}
