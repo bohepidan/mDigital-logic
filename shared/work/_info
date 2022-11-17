@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/O ever young
+vadder
+Z0 !s110 1667551696
+!i10b 1
+!s100 71n1hOZ:zc?:Oa_e^zeJY3
+IG>4He0cloV:a4old:MSz70
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dD:/Modelsim/shared
+Z3 w1505702928
+Z4 8D:/Modelsim/shared/shared.v
+Z5 FD:/Modelsim/shared/shared.v
+L0 18
+Z6 OV;L;10.3d;59
+r1
+!s85 0
+31
+Z7 !s108 1667551696.459000
+Z8 !s107 D:/Modelsim/shared/shared.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/shared/shared.v|
+!i113 1
+Z10 o-work work
+vfigure2_40
+Z11 !s110 1667565785
+!i10b 1
+!s100 FBRW1No8Hf]S72CTbnRoJ3
+IVIf;m2L]TcdWnQ:BmNNFO3
+R1
+R2
+w1667554858
+8D:/Modelsim/shared/figure2.40.v
+FD:/Modelsim/shared/figure2.40.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1667565785.656000
+!s107 D:/Modelsim/shared/figure2.40.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/shared/figure2.40.v|
+!i113 1
+R10
+vfigure2_42
+R11
+!i10b 1
+!s100 hoTkc:^YLo`[Vh=J]:PDH3
+IdDf;TD049AgK0XIz;zmUC1
+R1
+R2
+w1667555708
+8D:/Modelsim/shared/figure2.42.v
+FD:/Modelsim/shared/figure2.42.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1667565785.603000
+!s107 D:/Modelsim/shared/figure2.42.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/shared/figure2.42.v|
+!i113 1
+R10
+vfigure2_45
+R11
+!i10b 1
+!s100 R]ESMkn34mFY8H;G6`kOI0
+IZELeXH1:LE<dj64X?VRi`0
+R1
+R2
+w1667556440
+8D:/Modelsim/shared/figure2.45.v
+FD:/Modelsim/shared/figure2.45.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1667565785.704000
+!s107 D:/Modelsim/shared/figure2.45.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/shared/figure2.45.v|
+!i113 1
+R10
+vmux2to1
+R0
+!i10b 1
+!s100 Y<KNFNCaaTJWLJf87hQ>h0
+Ia@4?`fE2Vg][DLM954SJ63
+R1
+R2
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vshared
+R0
+!i10b 1
+!s100 :CBL3Mj3F`T:LYRl7YI[`0
+Id>D2:FzR0[VKP@NA3mHRl2
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vtb_figure2_40
+!s110 1667555954
+!i10b 1
+!s100 :Hj_2=7kOPW@Kj8kCL3mA0
+I;<@4PMN3cnMmREA:N:O@]2
+R1
+R2
+w1667555854
+Z12 8D:/Modelsim/shared/figure2.40_and2.42_tb.v
+Z13 FD:/Modelsim/shared/figure2.40_and2.42_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1667555954.550000
+Z14 !s107 D:/Modelsim/shared/figure2.40_and2.42_tb.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/shared/figure2.40_and2.42_tb.v|
+!i113 1
+R10
+vtb_figure2_40_and_2_42
+R11
+!i10b 1
+!s100 SzY@0a^Khd;J@2Z=?cal30
+ISEWc^GnD6fH5a]`k57PIM0
+R1
+R2
+w1667556004
+R12
+R13
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1667565785.549000
+R14
+R15
+!i113 1
+R10
+vtb_figure2_45
+R11
+!i10b 1
+!s100 l@d7lV`5WSG4b]b893mOI2
+I=4]jNVe5cl@OY4T6dj]=j3
+R1
+R2
+w1667565779
+8D:/Modelsim/shared/figure2.45_tb.v
+FD:/Modelsim/shared/figure2.45_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1667565785.769000
+!s107 D:/Modelsim/shared/figure2.45_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/shared/figure2.45_tb.v|
+!i113 1
+R10
+vtb_shared
+R0
+!i10b 1
+!s100 C?WZYRY`8iGL7im<<c?n^3
+I:lbnhB`f1HXZ8iDPk3`_=2
+R1
+R2
+w1505702872
+8D:/Modelsim/shared/shared_tb.v
+FD:/Modelsim/shared/shared_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1667551696.916000
+!s107 D:/Modelsim/shared/shared_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/shared/shared_tb.v|
+!i113 1
+R10

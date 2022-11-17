@@ -1,0 +1,52 @@
+D:/Modelsim/shared/figure2.45_tb.v {1 {vlog -work work -stats=none D:/Modelsim/shared/figure2.45_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module tb_figure2_45
+
+Top level modules:
+	tb_figure2_45
+
+} {} {}} D:/Modelsim/shared/shared_tb.v {1 {vlog -work work -stats=none D:/Modelsim/shared/shared_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module tb_shared
+
+Top level modules:
+	tb_shared
+
+} {} {}} D:/Modelsim/shared/figure2.42.v {1 {vlog -work work -stats=none D:/Modelsim/shared/figure2.42.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module figure2_42
+
+Top level modules:
+	figure2_42
+
+} {} {}} D:/Modelsim/shared/figure2.40.v {1 {vlog -work work -stats=none D:/Modelsim/shared/figure2.40.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module figure2_40
+
+Top level modules:
+	figure2_40
+
+} {} {}} D:/Modelsim/shared/figure2.45.v {1 {vlog -work work -stats=none D:/Modelsim/shared/figure2.45.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module figure2_45
+
+Top level modules:
+	figure2_45
+
+} {} {}} D:/Modelsim/shared/shared.v {1 {vlog -work work -stats=none D:/Modelsim/shared/shared.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shared
+-- Compiling module mux2to1
+-- Compiling module adder
+
+Top level modules:
+	shared
+
+} {} {}} D:/Modelsim/shared/figure2.40_and2.42_tb.v {1 {vlog -work work -stats=none D:/Modelsim/shared/figure2.40_and2.42_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module tb_figure2_40_and_2_42
+
+Top level modules:
+	tb_figure2_40_and_2_42
+
+} {} {}}
