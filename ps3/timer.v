@@ -14,7 +14,7 @@ always @(posedge reset, posedge clk)begin
   end
   else if(En)begin
     Q <= Q+1;
-    if(Q >= 1000000000)begin
+    if(Q >= 100)begin
       R <= R+1;
       Q <= 0;
     end

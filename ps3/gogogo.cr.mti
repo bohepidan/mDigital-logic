@@ -1,0 +1,43 @@
+D:/Modelsim/ps3/counter4_tb.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/counter4_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module counter4_tb
+
+Top level modules:
+	counter4_tb
+
+} {} {}} D:/Modelsim/ps3/shiftreg_tb.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/shiftreg_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shift4_tb
+
+Top level modules:
+	shift4_tb
+
+} {} {}} D:/Modelsim/ps3/Dlatch_tb.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/Dlatch_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Dlatch_tb
+
+Top level modules:
+	Dlatch_tb
+
+} {} {}} D:/Modelsim/ps3/counter4.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/counter4.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module counter4
+
+Top level modules:
+	counter4
+
+} {} {}} D:/Modelsim/ps3/shiftreg.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/shiftreg.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shift4
+
+Top level modules:
+	shift4
+
+} {} {}} D:/Modelsim/ps3/Dlatch.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/Dlatch.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Dlatch
+
+Top level modules:
+	Dlatch
+
+} {} {}}

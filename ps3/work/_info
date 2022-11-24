@@ -9,7 +9,7 @@ z2
 cModel Technology
 dD:/Modelsim/ps2
 vadder
-Z0 !s110 1669296412
+Z0 !s110 1669298348
 !i10b 1
 !s100 71n1hOZ:zc?:Oa_e^zeJY3
 I:PCZe:D41XmjgV@G1FF<73
@@ -23,19 +23,19 @@ Z6 OV;L;10.3d;59
 r1
 !s85 0
 31
-Z7 !s108 1669296412.532000
+Z7 !s108 1669298348.364000
 Z8 !s107 D:/Modelsim/ps3/test.v|
 Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/test.v|
 !i113 1
 Z10 o-work work
 vcounter4
-R0
+Z11 !s110 1669300637
 !i10b 1
 !s100 9[^k7SK2>mR8:YO[0fhKB2
 IGZcVkj^e:KTnjhoXhL?O82
 R1
 R2
-w1669288990
+w1669299318
 8D:/Modelsim/ps3/counter4.v
 FD:/Modelsim/ps3/counter4.v
 L0 1
@@ -43,19 +43,19 @@ R6
 r1
 !s85 0
 31
-!s108 1669296412.687000
+!s108 1669300637.318000
 !s107 D:/Modelsim/ps3/counter4.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/counter4.v|
 !i113 1
 R10
 vcounter4_tb
-R0
+R11
 !i10b 1
-!s100 FZ11MULo8ob7FLm<:92zE3
-I=H11KlQ1dd2IDYa`g[jAH3
+!s100 VPKheJJJNc^IgD^9J@ofj3
+Il^1D@`HZF?AZU<7P0c1nd3
 R1
 R2
-w1669295883
+w1669299434
 8D:/Modelsim/ps3/counter4_tb.v
 FD:/Modelsim/ps3/counter4_tb.v
 L0 2
@@ -63,13 +63,13 @@ R6
 r1
 !s85 0
 31
-!s108 1669296412.737000
+!s108 1669300637.367000
 !s107 D:/Modelsim/ps3/counter4_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/counter4_tb.v|
 !i113 1
 R10
 vDlatch
-R0
+R11
 !i10b 1
 !s100 h?9Q<CWcf7DJCL`z7DmD[1
 I`=Q8_[iz;f`aEzCoUSj:12
@@ -83,14 +83,14 @@ R6
 r1
 !s85 0
 31
-!s108 1669296412.585000
+!s108 1669300637.428000
 !s107 D:/Modelsim/ps3/Dlatch.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/Dlatch.v|
 !i113 1
 R10
 n@dlatch
 vDlatch_tb
-R0
+R11
 !i10b 1
 !s100 OOh:E>h2SS@VA;gM944ha1
 IaV5ElWITSPm^SVkP>laIe3
@@ -104,7 +104,7 @@ R6
 r1
 !s85 0
 31
-!s108 1669296412.889000
+!s108 1669300637.478000
 !s107 D:/Modelsim/ps3/Dlatch_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/Dlatch_tb.v|
 !i113 1
@@ -171,23 +171,43 @@ R9
 !i113 1
 R10
 vshift4
-R0
+R11
 !i10b 1
 !s100 n53MdAHIb11XihomfcF_z1
 IbAQU5O@DFYUV5DdEzhPW90
 R1
 R2
 w1669287818
-Z11 8D:/Modelsim/ps3/shiftreg.v
-Z12 FD:/Modelsim/ps3/shiftreg.v
+Z12 8D:/Modelsim/ps3/shiftreg.v
+Z13 FD:/Modelsim/ps3/shiftreg.v
 L0 1
 R6
 r1
 !s85 0
 31
-!s108 1669296412.637000
-Z13 !s107 D:/Modelsim/ps3/shiftreg.v|
-Z14 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/shiftreg.v|
+!s108 1669300637.527000
+Z14 !s107 D:/Modelsim/ps3/shiftreg.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/shiftreg.v|
+!i113 1
+R10
+vshift4_tb
+R11
+!i10b 1
+!s100 F5aN3=J=Ok_@kGafKFK@03
+IQBiD9_mT1hlTBlLfD3EfT2
+R1
+R2
+w1669298802
+8D:/Modelsim/ps3/shiftreg_tb.v
+FD:/Modelsim/ps3/shiftreg_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1669300637.577000
+!s107 D:/Modelsim/ps3/shiftreg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/shiftreg_tb.v|
 !i113 1
 R10
 vshiftreg
@@ -198,16 +218,16 @@ IBV5ULD<XC8][BG4Y16a>21
 R1
 R2
 w1669200817
-R11
 R12
+R13
 L0 1
 R6
 r1
 !s85 0
 31
 !s108 1669200828.764000
-R13
 R14
+R15
 !i113 1
 R10
 vtb_counter4
@@ -231,13 +251,13 @@ r1
 !i113 1
 R10
 vtimer
-R0
+R11
 !i10b 1
-!s100 ]9[[F;HY2]Q_3^JZL498N1
-IhGfA?<GBlQUoTECMNG_LV2
+!s100 EDVdb[7BaB[SDz0DQ4@6@0
+I1oVIeETEHCF_En;aFhjzg0
 R1
 R2
-w1669294417
+w1669300500
 8D:/Modelsim/ps3/timer.v
 FD:/Modelsim/ps3/timer.v
 L0 1
@@ -245,19 +265,19 @@ R6
 r1
 !s85 0
 31
-!s108 1669296412.789000
+!s108 1669300637.628000
 !s107 D:/Modelsim/ps3/timer.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/timer.v|
 !i113 1
 R10
 vtimer_tb
-R0
+R11
 !i10b 1
-!s100 JP=j?DHS9C]hm0G_oED:j1
-Inoil@33E^HIMaNTo<aLN^1
+!s100 RB6NjmXEU0lbmm:jz2VWk3
+IAb3k2_9LiF3i<7:[LK5i^0
 R1
 R2
-w1669295281
+w1669300634
 8D:/Modelsim/ps3/timer_tb.v
 FD:/Modelsim/ps3/timer_tb.v
 L0 2
@@ -265,7 +285,7 @@ R6
 r1
 !s85 0
 31
-!s108 1669296412.839000
+!s108 1669300637.679000
 !s107 D:/Modelsim/ps3/timer_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/timer_tb.v|
 !i113 1
