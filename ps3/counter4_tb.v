@@ -5,6 +5,7 @@ reg clk;
 reg En_test;
 reg [3:0]Q_test;
 wire [3:0]Q_tt;
+assign Q_tt = Q_test;
 
 initial begin
   clk = 0;
@@ -27,6 +28,6 @@ initial
 Q_test = 0;
 always #10 clk = ~clk;
 
-counter4 UUT_counter4(reset_test, clk, En_test, Q_tt);
+counter4 UUT_counter4(reset_test, clk, En_test, Q_test);
 
 endmodule
