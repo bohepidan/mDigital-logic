@@ -1,0 +1,24 @@
+# Current time Thu Nov 24 21:09:19 2022
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.3d"
+# Version = "2014.10"
+# Date = "Oct  7 2014"
+# Platform = win32pe
+# --> START OF USERCODE
+# 0    0x7bade543: 'strtod + 0x84' in 'c:\windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9635_none_508ff82ebcbafee0\msvcr90.dll'
+# 1    0x7bade735: 'strtol + 0x26' in 'c:\windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9635_none_508ff82ebcbafee0\msvcr90.dll'
+# 2    0x7bac6085: 'atol + 0x11' in 'c:\windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9635_none_508ff82ebcbafee0\msvcr90.dll'
+# <-- END OF USERCODE
+# 3    0x0080b9f8: '<unknown (@0x80b9f8)>'
+# 4    0x0080fa5b: '<unknown (@0x80fa5b)>'
+# 5    0x0080fb6c: '<unknown (@0x80fb6c)>'
+# 6    0x1000cb1f: 'TclInvokeStringCommand + 0x8f' in 'c:\users\o ever young\modelsim_ase\win32aloem\tcl85.dll'
+# 7    0x1000ecba: 'Tcl_EvalEx + 0x7da' in 'c:\users\o ever young\modelsim_ase\win32aloem\tcl85.dll'
+# 8    0x1000e500: 'Tcl_EvalEx + 0x20' in 'c:\users\o ever young\modelsim_ase\win32aloem\tcl85.dll'
+# 9    0x00ed6a99: '<unknown (@0xed6a99)>'
+# 10   0x1005fb86: 'Tcl_NotifyChannel + 0x136' in 'c:\users\o ever young\modelsim_ase\win32aloem\tcl85.dll'
+# 11   0x100aab09: 'TclpHasSockets + 0x379' in 'c:\users\o ever young\modelsim_ase\win32aloem\tcl85.dll'
+# End of Stack Trace
+
+

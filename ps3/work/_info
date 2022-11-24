@@ -1,0 +1,251 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Modelsim/ps2
+vadder
+Z0 !s110 1669295292
+!i10b 1
+!s100 71n1hOZ:zc?:Oa_e^zeJY3
+I_mG:_gNTf3jfhVWR2=UDM0
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dD:/Modelsim/ps3
+Z3 w1668762917
+Z4 8D:\Modelsim\ps3\test.v
+Z5 FD:\Modelsim\ps3\test.v
+L0 18
+Z6 OV;L;10.3d;59
+r1
+!s85 0
+31
+Z7 !s108 1669295292.602000
+Z8 !s107 D:\Modelsim\ps3\test.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:\Modelsim\ps3\test.v|
+!i113 1
+Z10 o-work work
+vcounter4
+R0
+!i10b 1
+!s100 9[^k7SK2>mR8:YO[0fhKB2
+IGZcVkj^e:KTnjhoXhL?O82
+R1
+R2
+w1669288990
+8D:/Modelsim/ps3/counter4.v
+FD:/Modelsim/ps3/counter4.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1669295292.769000
+!s107 D:/Modelsim/ps3/counter4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/counter4.v|
+!i113 1
+R10
+vcounter4_tb
+R0
+!i10b 1
+!s100 hWa]af1c>9=SM1ZQ`mk>61
+IdJWl;^j1D<6<L<NbA=N@;3
+R1
+R2
+w1669294177
+8D:/Modelsim/ps3/counter4_tb.v
+FD:/Modelsim/ps3/counter4_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1669295292.840000
+!s107 D:/Modelsim/ps3/counter4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/counter4_tb.v|
+!i113 1
+R10
+vDlatch
+R0
+!i10b 1
+!s100 h?9Q<CWcf7DJCL`z7DmD[1
+I`=Q8_[iz;f`aEzCoUSj:12
+R1
+R2
+w1669200615
+8D:/Modelsim/ps3/Dlatch.v
+FD:/Modelsim/ps3/Dlatch.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1669295292.666000
+!s107 D:/Modelsim/ps3/Dlatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/Dlatch.v|
+!i113 1
+R10
+n@dlatch
+vflipflop
+!s110 1668762710
+!i10b 1
+!s100 VDA5InTY:OYQ9[CTZX8EA3
+Ig_^=`B6YckAmFoK1P?dSZ1
+R1
+R2
+w1668761700
+8D:/Modelsim/ps3/flipflop.v
+FD:/Modelsim/ps3/flipflop.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1668762710.191000
+!s107 D:/Modelsim/ps3/flipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/flipflop.v|
+!i113 1
+R10
+vmux2to1
+R0
+!i10b 1
+!s100 Y<KNFNCaaTJWLJf87hQ>h0
+IWAn1fYFh_iDnO0XRzJ1j:2
+R1
+R2
+R3
+R4
+R5
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vshared
+R0
+!i10b 1
+!s100 :CBL3Mj3F`T:LYRl7YI[`0
+I3K28AO:2_BE0a<_FeUz^Y3
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vshift4
+R0
+!i10b 1
+!s100 n53MdAHIb11XihomfcF_z1
+IbAQU5O@DFYUV5DdEzhPW90
+R1
+R2
+w1669287818
+Z11 8D:/Modelsim/ps3/shiftreg.v
+Z12 FD:/Modelsim/ps3/shiftreg.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1669295292.719000
+Z13 !s107 D:/Modelsim/ps3/shiftreg.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/shiftreg.v|
+!i113 1
+R10
+vshiftreg
+!s110 1669200828
+!i10b 1
+!s100 d6Q;EaSF]j2J5IfYGmeG_3
+IBV5ULD<XC8][BG4Y16a>21
+R1
+R2
+w1669200817
+R11
+R12
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1669200828.764000
+R13
+R14
+!i113 1
+R10
+vtb_counter4
+!s110 1669290000
+!i10b 1
+!s100 NdVmN`[U>UDgb_3oKg4Jn2
+Ii1EjfU^2JK:Nf]bz1KO9L3
+R1
+R2
+w1669289992
+8D:/Modelsim/ps3/tb_counter4.v
+FD:/Modelsim/ps3/tb_counter4.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1669290000.023000
+!s107 D:/Modelsim/ps3/tb_counter4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/tb_counter4.v|
+!i113 1
+R10
+vtimer
+R0
+!i10b 1
+!s100 ]9[[F;HY2]Q_3^JZL498N1
+IhGfA?<GBlQUoTECMNG_LV2
+R1
+R2
+w1669294417
+8D:/Modelsim/ps3/timer.v
+FD:/Modelsim/ps3/timer.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1669295292.893000
+!s107 D:/Modelsim/ps3/timer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/timer.v|
+!i113 1
+R10
+vtimer_tb
+R0
+!i10b 1
+!s100 JP=j?DHS9C]hm0G_oED:j1
+Inoil@33E^HIMaNTo<aLN^1
+R1
+R2
+w1669295281
+8D:/Modelsim/ps3/timer_tb.v
+FD:/Modelsim/ps3/timer_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1669295292.943000
+!s107 D:/Modelsim/ps3/timer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/timer_tb.v|
+!i113 1
+R10
