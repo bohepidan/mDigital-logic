@@ -1,4 +1,11 @@
-D:/Modelsim/ps3/timer.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/timer.v
+D:/Modelsim/ps3/counter4_tb.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/counter4_tb.v
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module counter4_tb
+
+Top level modules:
+	counter4_tb
+
+} {} {}} D:/Modelsim/ps3/timer.v {1 {vlog -work work -stats=none D:/Modelsim/ps3/timer.v
 Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
 -- Compiling module timer
 

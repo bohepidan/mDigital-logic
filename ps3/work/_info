@@ -9,7 +9,7 @@ z2
 cModel Technology
 dD:/Modelsim/ps2
 vadder
-Z0 !s110 1669295887
+Z0 !s110 1669296412
 !i10b 1
 !s100 71n1hOZ:zc?:Oa_e^zeJY3
 I:PCZe:D41XmjgV@G1FF<73
@@ -23,7 +23,7 @@ Z6 OV;L;10.3d;59
 r1
 !s85 0
 31
-Z7 !s108 1669295887.396000
+Z7 !s108 1669296412.532000
 Z8 !s107 D:/Modelsim/ps3/test.v|
 Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/test.v|
 !i113 1
@@ -43,7 +43,7 @@ R6
 r1
 !s85 0
 31
-!s108 1669295887.703000
+!s108 1669296412.687000
 !s107 D:/Modelsim/ps3/counter4.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/counter4.v|
 !i113 1
@@ -63,7 +63,7 @@ R6
 r1
 !s85 0
 31
-!s108 1669295887.753000
+!s108 1669296412.737000
 !s107 D:/Modelsim/ps3/counter4_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/counter4_tb.v|
 !i113 1
@@ -83,12 +83,33 @@ R6
 r1
 !s85 0
 31
-!s108 1669295887.449000
+!s108 1669296412.585000
 !s107 D:/Modelsim/ps3/Dlatch.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/Dlatch.v|
 !i113 1
 R10
 n@dlatch
+vDlatch_tb
+R0
+!i10b 1
+!s100 OOh:E>h2SS@VA;gM944ha1
+IaV5ElWITSPm^SVkP>laIe3
+R1
+R2
+w1669296407
+8D:/Modelsim/ps3/Dlatch_tb.v
+FD:/Modelsim/ps3/Dlatch_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1669296412.889000
+!s107 D:/Modelsim/ps3/Dlatch_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/Dlatch_tb.v|
+!i113 1
+R10
+n@dlatch_tb
 vflipflop
 !s110 1668762710
 !i10b 1
@@ -164,7 +185,7 @@ R6
 r1
 !s85 0
 31
-!s108 1669295887.652000
+!s108 1669296412.637000
 Z13 !s107 D:/Modelsim/ps3/shiftreg.v|
 Z14 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/shiftreg.v|
 !i113 1
@@ -224,13 +245,13 @@ R6
 r1
 !s85 0
 31
-!s108 1669295887.803000
+!s108 1669296412.789000
 !s107 D:/Modelsim/ps3/timer.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/timer.v|
 !i113 1
 R10
 vtimer_tb
-!s110 1669295888
+R0
 !i10b 1
 !s100 JP=j?DHS9C]hm0G_oED:j1
 Inoil@33E^HIMaNTo<aLN^1
@@ -244,7 +265,7 @@ R6
 r1
 !s85 0
 31
-!s108 1669295888.028000
+!s108 1669296412.839000
 !s107 D:/Modelsim/ps3/timer_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Modelsim/ps3/timer_tb.v|
 !i113 1
